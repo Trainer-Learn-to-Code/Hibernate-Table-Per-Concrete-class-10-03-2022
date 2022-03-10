@@ -1,0 +1,1 @@
+# Hibernate-Table-Per-Concrete-class-10-03-2022
